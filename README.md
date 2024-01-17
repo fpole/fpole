@@ -6,8 +6,6 @@
 - 📈 Coming from a background in Systems Engineering, I'm excited to move forward with a career in tech!
 - 📫 Feel free to reach me on my [LinkedIn](https://www.linkedin.com/in/fred-pole-7b8a66105/)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/fpole/langs?time_range=one_year&compact=True&theme=bright_lights)](https://githubtrends.io)
-
 
 <h3> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
@@ -34,5 +32,5 @@
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpole&layout=compact)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/fpole/langs?time_range=one_year&compact=True&theme=bright_lights)](https://githubtrends.io)
 --->
