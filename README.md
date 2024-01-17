@@ -6,7 +6,6 @@
 - 📈 Coming from a background in Systems Engineering, I'm excited to move forward with a career in tech!
 - 📫 Feel free to reach me on my [LinkedIn](https://www.linkedin.com/in/fred-pole-7b8a66105/)
 
-
 <h3> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -30,7 +29,7 @@
 ```yaml
 // your text
 ```
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpole&layout=compact)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/fpole/langs?time_range=one_year&compact=True&theme=bright_lights)](https://githubtrends.io)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fpole)](https://github.com/fpole/github-readme-stats)
 --->
