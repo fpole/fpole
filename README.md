@@ -1,13 +1,22 @@
-![Header](https://github.com/fpole/fpole/assets/137444215/482a79ae-a6db-4b9f-aaf0-e5f538a7279c)
+<div id="header" align="center">
+<img src="https://github.com/fpole/fpole/assets/137444215/482a79ae-a6db-4b9f-aaf0-e5f538a7279c"/>
+</div>
 
+</br>
 
 - 👋 Hi, I’m @fpole
 - 🌱 I completed an intensive 16-week web development course at the end of 2023 with the School of Code
 - 📈 Coming from a background in Systems Engineering, I'm excited to move forward with a career in tech!
-- 📫 Feel free to reach me on my [LinkedIn](https://www.linkedin.com/in/fred-pole-7b8a66105/)
 
+</br>
+<div id="links" align="center">
+<a href="https://www.linkedin.com/in/fred-pole-7b8a66105/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a> 
+<a href="https://www.codewars.com/users/fpole"><img align="center" src="https://www.codewars.com/users/fpole/badges/small" /></a>
+</div>
+
+</br>
 <h3> 🚀 &nbsp;Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
@@ -20,16 +29,23 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
 </p>
 
-![img](https://www.codewars.com/users/fpole/badges/small)
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+</details>
 
 <!---
 ```yaml
 // your text
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpole&layout=compact)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/fpole/langs?time_range=one_year&compact=True&theme=bright_lights)](https://githubtrends.io)
+
+Stats don't include SoC Repos :(
+[![Top Langs](https://github-readme-stats-alpha-one-12.vercel.app/api/top-langs/?username=fpole&layout=compact)](https://github.com/fpole/github-readme-stats)
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fpole)](https://github.com/fpole/github-readme-stats)
+
 --->
