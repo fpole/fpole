@@ -48,6 +48,12 @@
 
 </details>
 
+---
+
+<div id="spotify" align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ospujwd878j1ie84u0lu2foud&count=3&unique={true|1|on|yes}" />
+</div>
+
 <!---
 ```yaml
 // your text
