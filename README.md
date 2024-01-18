@@ -1,18 +1,16 @@
 <div id="header" align="center">
 <img src="https://github.com/fpole/fpole/assets/137444215/482a79ae-a6db-4b9f-aaf0-e5f538a7279c"/>
 </div>
+<div id="links" align="center">
+<a href="https://www.linkedin.com/in/fred-pole-7b8a66105/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a> 
+<a href="https://www.codewars.com/users/fpole"><img align="center" src="https://www.codewars.com/users/fpole/badges/small" /></a>
+</div>
 
 </br>
 
 - 👋 Hi, I’m @fpole
 - 🌱 I completed an intensive 16-week web development course at the end of 2023 with the School of Code
 - 📈 Coming from a background in Systems Engineering, I'm excited to move forward with a career in tech!
-
-
-<div id="links" align="center">
-<a href="https://www.linkedin.com/in/fred-pole-7b8a66105/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a> 
-<a href="https://www.codewars.com/users/fpole"><img align="center" src="https://www.codewars.com/users/fpole/badges/small" /></a>
-</div>
 
 ---
 
@@ -34,7 +32,13 @@
 </p>
 
 ---
-
+<details>
+  
+  <summary>🤝 Testimonials</summary>
+  <h4>Anthony Hall (Stakeholder for School of Code Final Project):</h4>
+  <p> “As a business stakeholder, I have worked with the ZenTech creators from the School of Code (Faisal, Fred, Hannah, Joe, Samalie and Susan) for the past four weeks. They have been, without doubt, an exceptional team of incredibly talented individuals. They bring creativity, spark, energy, commitment, technical skill and innovation in abundance and I would have no hesitation whatsoever in recommending them in the highest possible way to any future employer. </p>
+  <p>Communication has been excellent, teamwork has been first class and, as a key stakeholder, I have felt involved and engaged throughout the entire project from inception right through to ending and handover. A really top class team.”</p>
+</details>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
