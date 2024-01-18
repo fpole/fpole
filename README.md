@@ -36,6 +36,12 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/HannahThor/github-flow-prac/pull/11) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
+2. 💪 Opened PR [#10](https://github.com/HannahThor/github-flow-prac/pull/10) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
+3. 🎉 Merged PR [#5](https://github.com/HannahThor/github-flow-prac/pull/5) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
+4. 💪 Opened PR [#6](https://github.com/HannahThor/github-flow-prac/pull/6) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
+5. 🎉 Merged PR [#2](https://github.com/HannahThor/github-flow-prac/pull/2) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
+<!--END_SECTION:activity-->
 </details>
 
 <!---
