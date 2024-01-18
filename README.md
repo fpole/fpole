@@ -44,6 +44,7 @@
 <!--END_SECTION:activity-->
 </details>
 
+
 <!---
 ```yaml
 // your text
@@ -53,5 +54,11 @@ Stats don't include SoC Repos :(
 [![Top Langs](https://github-readme-stats-alpha-one-12.vercel.app/api/top-langs/?username=fpole&layout=compact)](https://github.com/fpole/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fpole)](https://github.com/fpole/github-readme-stats)
+
+
+Spotify Now Playing - not working :(
+<a href="https://spotify-readme-blush.vercel.app/now-playing?open">
+    <img src="https://spotify-readme-blush.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 --->
