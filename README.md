@@ -8,14 +8,15 @@
 - 🌱 I completed an intensive 16-week web development course at the end of 2023 with the School of Code
 - 📈 Coming from a background in Systems Engineering, I'm excited to move forward with a career in tech!
 
-</br>
+
 <div id="links" align="center">
 <a href="https://www.linkedin.com/in/fred-pole-7b8a66105/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a> 
 <a href="https://www.codewars.com/users/fpole"><img align="center" src="https://www.codewars.com/users/fpole/badges/small" /></a>
 </div>
 
-</br>
-<h3> 🚀 &nbsp;Tools I Have Used and Learned</h2>
+---
+
+### 🚀 Tools I Have Used and Learned
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -32,9 +33,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
 </p>
 
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#11](https://github.com/HannahThor/github-flow-prac/pull/11) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 2. 💪 Opened PR [#10](https://github.com/HannahThor/github-flow-prac/pull/10) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
@@ -42,19 +45,18 @@
 4. 💪 Opened PR [#6](https://github.com/HannahThor/github-flow-prac/pull/6) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 5. 🎉 Merged PR [#2](https://github.com/HannahThor/github-flow-prac/pull/2) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 <!--END_SECTION:activity-->
-</details>
 
+</details>
 
 <!---
 ```yaml
 // your text
 ```
 
-Stats don't include SoC Repos :(
+Stats work but don't include SoC Repos :(
 [![Top Langs](https://github-readme-stats-alpha-one-12.vercel.app/api/top-langs/?username=fpole&layout=compact)](https://github.com/fpole/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fpole)](https://github.com/fpole/github-readme-stats)
-
 
 Spotify Now Playing - not working :(
 <a href="https://spotify-readme-blush.vercel.app/now-playing?open">
