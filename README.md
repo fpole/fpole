@@ -33,12 +33,21 @@
 
 ---
 <details>
-  
+  <summary>⚙️ Projects</summary>
+  <ul>
+    <li>Movie Library - Coming Soon!</li>
+    <li><a href="https://files.slack.com/files-pri/T05H87CSLUD-F06DSKX2FLK/screenshot_2024-01-12_at_4.13.49_pm.png">Calming Down</a></li>
+    <li><a href="https://bc15-w8-project-front-end-teamtogether.vercel.app/">Test Together</a></li>
+  </ul> 
+</details>
+
+<details>
   <summary>🤝 Testimonials</summary>
   <h4>Anthony Hall (Stakeholder for School of Code Final Project):</h4>
   <p> “As a business stakeholder, I have worked with the ZenTech creators from the School of Code (Faisal, Fred, Hannah, Joe, Samalie and Susan) for the past four weeks. They have been, without doubt, an exceptional team of incredibly talented individuals. They bring creativity, spark, energy, commitment, technical skill and innovation in abundance and I would have no hesitation whatsoever in recommending them in the highest possible way to any future employer. </p>
   <p>Communication has been excellent, teamwork has been first class and, as a key stakeholder, I have felt involved and engaged throughout the entire project from inception right through to ending and handover. A really top class team.”</p>
 </details>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
