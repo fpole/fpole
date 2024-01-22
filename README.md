@@ -37,8 +37,8 @@
   <summary>⚙️ Projects</summary>
   <ul>
     <li>Movie Library - Coming Soon!</li>
-    <li><a href="https://drive.google.com/file/d/1-LCxwKXUE2UtwaQWOTwdyLzVmLiCoddj/view?usp=drive_link">Calming Down</a> - <a href="https://drive.google.com/file/d/1GjCtNF86c_VkOyx5aOwSrsd7QEQt8dvt/view?usp=drive_link">Demo Video</a></li>
-    <li><a href="https://bc15-w8-project-front-end-teamtogether.vercel.app/">Test Together</a> - <a href="https://drive.google.com/file/d/1PerFW6Qb03-Is-ww8vnn6i5FVPuifaki/view?usp=drive_link">Demo Video</a></li>
+    <li>Calming Down - <a href="https://youtu.be/mBq6ZbqdEss">Demo Video</a></li>
+    <li><a href="https://bc15-w8-project-front-end-teamtogether.vercel.app/">Test Together</a> - <a href="https://youtu.be/oLJhZNp9-k8">Demo Video</a></li>
   </ul> 
 </details>
 
