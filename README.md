@@ -64,6 +64,13 @@
 
 ---
 
+<div id="stats" align="center">
+<img align="top" src="https://github-readme-stats-alpha-one-12.vercel.app/api/top-langs/?username=fpole&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=fpole" />
+</div>
+
+---
+
 <div id="spotify" align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=ospujwd878j1ie84u0lu2foud&count=3&unique={true|1|on|yes}" />
 </div>
