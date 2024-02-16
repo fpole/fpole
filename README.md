@@ -36,7 +36,7 @@
 <details>
   <summary>⚙️ Projects</summary>
   <ul>
-    <li>Movie Library - Coming Soon!</li>
+    <li><a href="https://gigplanner.vercel.app/">Gig Search</a> - <a href="https://github.com/fpole/gigplanner">Repo</a></li>
     <li>Calming Down - <a href="https://youtu.be/mBq6ZbqdEss">Demo Video</a></li>
     <li><a href="https://bc15-w8-project-front-end-teamtogether.vercel.app/">Test Together</a> - <a href="https://youtu.be/oLJhZNp9-k8">Demo Video</a></li>
   </ul> 
