@@ -66,7 +66,7 @@
 
 <div id="stats" align="center">
 <img align="top" src="https://github-readme-stats-alpha-one-12.vercel.app/api/top-langs/?username=fpole&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=fpole" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=fpole" /> -->
 </div>
 
 ---
