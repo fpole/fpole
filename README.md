@@ -9,8 +9,9 @@
 </br>
 
 - 👋 Hi, I’m @fpole
-- 🌱 I completed an intensive 16-week web development course at the end of 2023 with the School of Code
-- 📈 Coming from a background in Systems Engineering, I'm excited to move forward with a career in tech!
+- 🌱 School of Code of graduate
+- 📈 Previously a Systems Engineer
+- 👨‍💻 Currently working at Buzz Interactive
 
 ---
 
@@ -49,25 +50,28 @@
   <p>Communication has been excellent, teamwork has been first class and, as a key stakeholder, I have felt involved and engaged throughout the entire project from inception right through to ending and handover. A really top class team.”</p>
 </details>
 
+<!---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
+<!---
 1. 🎉 Merged PR [#11](https://github.com/HannahThor/github-flow-prac/pull/11) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 2. 💪 Opened PR [#10](https://github.com/HannahThor/github-flow-prac/pull/10) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 3. 🎉 Merged PR [#5](https://github.com/HannahThor/github-flow-prac/pull/5) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 4. 💪 Opened PR [#6](https://github.com/HannahThor/github-flow-prac/pull/6) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 5. 🎉 Merged PR [#2](https://github.com/HannahThor/github-flow-prac/pull/2) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
 <!--END_SECTION:activity-->
-
+<!---
 </details>
+--->
 
----
-
+<!---
 <div id="stats" align="center">
 <img align="top" src="https://github-readme-stats-alpha-one-12.vercel.app/api/top-langs/?username=fpole&layout=compact" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=fpole" /> -->
+<!---
 </div>
+--->
 
 ---
 
