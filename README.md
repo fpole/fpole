@@ -11,7 +11,7 @@
 - 👋 Hi, I’m @fpole
 - 🌱 School of Code of graduate
 - 📈 Previously a Systems Engineer
-- 👨‍💻 Currently working at Buzz Interactive
+- 👨‍💻 Web Developer at Buzz Interactive
 
 ---
 
