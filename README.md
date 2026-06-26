@@ -51,33 +51,12 @@
 </details>
 
 <!---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/fpole/gigplanner/pull/1) in [fpole/gigplanner](https://github.com/fpole/gigplanner)
-2. 💪 Opened PR [#1](https://github.com/fpole/gigplanner/pull/1) in [fpole/gigplanner](https://github.com/fpole/gigplanner)
-2. 💪 Opened PR [#10](https://github.com/HannahThor/github-flow-prac/pull/10) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
-3. 🎉 Merged PR [#5](https://github.com/HannahThor/github-flow-prac/pull/5) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
-4. 💪 Opened PR [#6](https://github.com/HannahThor/github-flow-prac/pull/6) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
-5. 🎉 Merged PR [#2](https://github.com/HannahThor/github-flow-prac/pull/2) in [HannahThor/github-flow-prac](https://github.com/HannahThor/github-flow-prac)
-<!--END_SECTION:activity-->
-<!---
-</details>
---->
-
-<!---
 <div id="stats" align="center">
 <img align="top" src="https://github-readme-stats-alpha-one-12.vercel.app/api/top-langs/?username=fpole&layout=compact" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=fpole" /> -->
 <!---
 </div>
 --->
-
----
-
-<div id="spotify" align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ospujwd878j1ie84u0lu2foud&count=3&unique={true|1|on|yes}" />
-</div>
 
 <!---
 ```yaml
