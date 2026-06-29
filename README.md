@@ -9,9 +9,8 @@
 </br>
 
 - 👋 Hi, I’m @fpole
-- 🌱 School of Code of graduate
+- 👨‍💻 Web Developer currently open to new opportunities
 - 📈 Previously a Systems Engineer
-- 👨‍💻 Web Developer at Buzz Interactive
 
 ---
 
